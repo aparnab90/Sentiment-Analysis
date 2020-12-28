@@ -1,9 +1,0 @@
-# Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "aparnab90.github.io"
-
-# Tertiary Parameters
-github_username:  aparnab90
-g-analytics: UA-75881392-1
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
