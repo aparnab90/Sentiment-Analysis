@@ -1,9 +1,9 @@
 # Site settings
 title: Project Pages
 description: "An Integrated Scientific Blogging Template"
-url: "http://projectpages.github.io"
+url: "aparnab90.github.io/Sentiment-Analysis"
 
 # Tertiary Parameters
-github_username:  projectpages
+github_username:  aparnab90
 g-analytics: UA-75881392-1
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
